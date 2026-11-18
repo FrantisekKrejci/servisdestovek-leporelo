@@ -3,3 +3,6 @@
 Osm panelů, každý 280 × 210 mm (4 : 3). Verze 1.
 
 Soubor: ServisDestovek-leporelo.pdf
+
+PowerPoint: ServisDestovek-leporelo.pptx
+Osm snímků, formát 4:3.
